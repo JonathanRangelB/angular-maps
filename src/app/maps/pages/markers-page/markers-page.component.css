@@ -17,3 +17,11 @@ button {
   right: 20px;
   box-shadow: 8px 9px 17px -3px rgba(0, 0, 0, 0.43);
 }
+
+span {
+  position: fixed;
+  bottom: 30px;
+  left: 20px;
+  box-shadow: 8px 9px 17px -3px rgba(0, 0, 0, 0.43);
+  border-radius: 10px;
+}
