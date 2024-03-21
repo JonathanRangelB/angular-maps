@@ -1,0 +1,19 @@
+#map {
+  width: 100dvw;
+  height: 100dvh;
+}
+
+.list-group {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  z-index: 999;
+}
+
+button {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  box-shadow: 8px 9px 17px -3px rgba(0, 0, 0, 0.43);
+}
