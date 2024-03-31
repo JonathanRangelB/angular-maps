@@ -1,1 +1,0 @@
-MAPBOX_KEY=your_mapbox_key_here

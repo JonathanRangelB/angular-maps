@@ -1,0 +1,10 @@
+ul {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1000;
+}
+
+li {
+  transition: all 0.3s ease;
+}
